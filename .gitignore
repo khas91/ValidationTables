@@ -240,3 +240,9 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/ImportStateTables/StateFiles/PINDCER.YTT2017
+/ImportStateTables/StateFiles/LCP.YTT2017
+/ImportStateTables/StateFiles/CIP.YTT2017
+/ImportStateTables/StateFiles/BACINST.YTT2017
+/ImportStateTables/StateFiles/BACINST.YTT2017
+*.YTT2017
